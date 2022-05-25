@@ -5,7 +5,7 @@ N:Fan;Albert;;;
 FN: Albert  Fan 
 ORG:Raffles Financial Advisory;
 TITLE:CEO
-EMAIL;type=INTERNET;type=WORK;type=albert@rafflesadvisory.com
+EMAIL;type=INTERNET;type=WORK;type=pref:albert@rafflesadvisory.com
 TEL;type=WORK;type=VOICE:+65 9787 1565
 item1.ADR;type=WORK;type=pref:;;3 Shenton Way\nShenton House\, #11-01;;;068805;Singapore
 item1.X-ABADR:sg
